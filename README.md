@@ -1,6 +1,6 @@
 # FinAPI - Financeira
 
-Uma API Rest que desenvolvi durante os meus estudos de NODEJS no Ignite da Rocketseat
+Uma API Rest que desenvolvi durante os meus estudos de NODEJS!
 
 ### Requisitos
 - [x] Deve ser possível criar uma conta 
