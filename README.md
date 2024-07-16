@@ -17,5 +17,5 @@ Uma API Rest que desenvolvi durante os meus estudos de NODEJS!
 - [x] Não deve ser possível fazer depósito em uma conta não existente
 - [x] Não deve ser possível buscar extrato em uma conta não existente
 - [x] Não deve ser possível fazer saque em uma conta não existente
-- [] Não deve ser possível excluir uma conta não existente
+- [x] Não deve ser possível excluir uma conta não existente
 - [x] Não deve ser possível fazer saque quando o saldo é insuficiente
